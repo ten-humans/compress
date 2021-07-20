@@ -3,7 +3,8 @@
     "module": "commonjs",
     "noImplicitAny": true,
     "outDir": "dist",
-    "allowJs": true
+    "allowJs": true,
+    "declaration": true
   },
   "include": ["src/**/*"]
 }
